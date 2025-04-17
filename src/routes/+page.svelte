@@ -1,5 +1,5 @@
 <script lang="ts">
-	const pessoa = {
+	const pessoas = {
 		idade: 1000,
 		nome: 'igor',
 	};
