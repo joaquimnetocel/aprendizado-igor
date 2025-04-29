@@ -36,6 +36,11 @@
 	"workbench.startupEditor": "none", // START WITHOUT AN EDITOR IF NONE ARE RESTORED FROM THE PREVIOUS SESSION.
 	/////
 	// WINDOW:
-	"window.title": "${rootName}" // VSCODE WINDOW TITLE.
+	"window.title": "${rootName}", // VSCODE WINDOW TITLE.
+	/////
+	// PRISMA:
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma" // FORMATTER FOR PRISMA FILES.
+	}
 	/////
 }

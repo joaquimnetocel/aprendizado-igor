@@ -4,6 +4,8 @@
 		"svelte.svelte-vscode", // SVELTE FOR VS CODE
 		"dbaeumer.vscode-eslint", // ESLINT
 		"chanzhaoyu.svelte-5-snippets", // SNIPPETS
-		"formulahendry.auto-rename-tag" // AUTO RENAME TAG
+		"formulahendry.auto-rename-tag", // AUTO RENAME TAG
+		"prisma.prisma",
+		"mikestead.dotenv" // PRISMA
 	]
 }
